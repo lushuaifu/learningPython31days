@@ -1,0 +1,5 @@
+f = open('xx.txt','w')
+f.write('abc\n')
+f.write('110\n')
+f.write('中文\n')
+f.close()

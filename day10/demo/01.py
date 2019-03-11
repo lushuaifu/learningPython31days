@@ -1,0 +1,8 @@
+f = open('/home/yong/1705/day13/demo2/test.txt','r')
+line = f.readline()
+lines = f.readlines()
+print(line)
+print(len(line))
+print(lines)
+print(lines[0])
+print(len(lines[0]))
